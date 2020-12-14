@@ -1,0 +1,12 @@
+
+#container {
+  padding: 0;
+
+}
+
+#second {
+  width: auto;
+  display: inline-block;
+  height: auto;
+  background-color: green;
+}
